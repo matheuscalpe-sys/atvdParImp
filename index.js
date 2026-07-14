@@ -7,3 +7,4 @@ if (numero % 2 === 0) {
 }
 
 //XAUUUUUU
+//tchau
